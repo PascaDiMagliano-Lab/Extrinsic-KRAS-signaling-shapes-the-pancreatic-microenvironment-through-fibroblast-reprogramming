@@ -1,4 +1,4 @@
-#This scipt reproduces the single cell RNAseq analysis of iKras* PanIN lesions as described in Velez-Delgago, et al. 2021.
+#This scipt reproduces the single cell RNAseq analysis of iKras* PanIN lesions as described in Velez-Delgago, et al. 2022.
 #Data was processed in line with the Seurat workflow:
 #Website: https://satijalab.org/seurat/index.html
 #
